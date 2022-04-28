@@ -1,0 +1,624 @@
+{
+    "__collections__": {
+        "Mapa": {
+            "Direcciones": {
+                "__collections__": {
+                    "Altamarina": {
+                        "1": {
+                            "id": "1",
+                            "latitude": -0.18146,
+                            "longitude": -78.50507,
+                            "title": "Cuiabá",
+                            "description": "Cuiabá"
+                         },
+                         "2": {
+                            "id": "2",
+                            "latitude": -0.18212,
+                            "longitude": -78.5044,
+                            "title": "Campo Grande",
+                            "description": "Campo Grande",
+                            "category": 1
+                         },
+                         "3": {
+                            "id": "3",
+                            "latitude": -0.18284,
+                            "longitude": -78.50375,
+                            "title": "São Paulo",
+                            "description": "São Paulo",
+                            "category": 1
+                         },
+                         "4": {
+                            "id": "4",
+                            "latitude": -0.18373,
+                            "longitude": -78.50277,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "5": {
+                            "id": "5",
+                            "latitude": -0.18388,
+                            "longitude": -78.50206,
+                            "title": "Ceará",
+                            "description": "Ceará",
+                            "category": 1
+                         },
+                         "6": {
+                            "id": "6",
+                            "latitude": -0.18386,
+                            "longitude": -78.50137,
+                            "title": "Rio Grande do Sul",
+                            "description": "Rio Grande do Sul",
+                            "category": 1
+                         },
+                         "7": {
+                            "id": "7",
+                            "latitude": -0.18462,
+                            "longitude": -78.4998,
+                            "title": "Acre",
+                            "description": "Acred",
+                            "category": 1
+                         },
+                         "8": {
+                            "id": "8",
+                            "latitude": -0.18579,
+                            "longitude": -78.49696,
+                            "title": "Cuiabá",
+                            "description": "Cuiabá"
+                         },
+                         "9": {
+                            "id": "9",
+                            "latitude": -0.18627,
+                            "longitude": -78.4958,
+                            "title": "Campo Grande",
+                            "description": "Campo Grande",
+                            "category": 1
+                         },
+                         "10": {
+                            "id": "10",
+                            "latitude": -0.18657,
+                            "longitude": -78.49522,
+                            "title": "São Paulo",
+                            "description": "São Paulo",
+                            "category": 1
+                         },
+                         "11": {
+                            "id": "11",
+                            "latitude": -0.18645,
+                            "longitude": -78.49524,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "12": {
+                            "id": "12",
+                            "latitude": -0.18645,
+                            "longitude": -78.49524,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "13": {
+                            "id": "13",
+                            "latitude": -0.18636,
+                            "longitude": -78.49527,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "14": {
+                            "id": "14",
+                            "latitude": -0.18624,
+                            "longitude": -78.49529,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "15": {
+                            "id": "15",
+                            "latitude": -0.18613,
+                            "longitude": -78.49532,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "16": {
+                            "id": "16",
+                            "latitude": -0.18603,
+                            "longitude": -78.49534,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "17": {
+                            "id": "17",
+                            "latitude": -0.18593,
+                            "longitude": -78.49536,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "18": {
+                            "id": "18",
+                            "latitude": -0.18587,
+                            "longitude": -78.49538,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "19": {
+                            "id": "19",
+                            "latitude": -0.18572,
+                            "longitude": -78.49535,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "20": {
+                            "id": "20",
+                            "latitude": -0.18559,
+                            "longitude": -78.49533,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "21": {
+                            "id": "21",
+                            "latitude": -0.18546,
+                            "longitude": -78.4953,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "22": {
+                            "id": "22",
+                            "latitude": -0.1853,
+                            "longitude": -78.49528,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "23": {
+                            "id": "23",
+                            "latitude": -0.18515,
+                            "longitude": -78.49525,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "24": {
+                            "id": "24",
+                            "latitude": -0.18493,
+                            "longitude": -78.49521,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "25": {
+                            "id": "25",
+                            "latitude": -0.18454,
+                            "longitude": -78.49514,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "26": {
+                            "id": "26",
+                            "latitude": -0.18438,
+                            "longitude": -78.49511,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "27": {
+                            "id": "27",
+                            "latitude": -0.18422,
+                            "longitude": -78.49508,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "28": {
+                            "id": "28",
+                            "latitude": -0.18407,
+                            "longitude": -78.49505,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "29": {
+                            "id": "29",
+                            "latitude": -0.18386,
+                            "longitude": -78.49501,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "30": {
+                            "id": "30",
+                            "latitude": -0.18373,
+                            "longitude": -78.49499,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "31": {
+                            "id": "31",
+                            "latitude": -0.18359,
+                            "longitude": -78.49496,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "32": {
+                            "id": "32",
+                            "latitude": -0.1835,
+                            "longitude": -78.49495,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "33": {
+                            "id": "33",
+                            "latitude": -0.1834,
+                            "longitude": -78.49493,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "34": {
+                            "id": "34",
+                            "latitude": -0.18328,
+                            "longitude": -78.49491,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "35": {
+                            "id": "35",
+                            "latitude": -0.1831,
+                            "longitude": -78.49488,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "36": {
+                            "id": "36",
+                            "latitude": -0.18292,
+                            "longitude": -78.49484,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "37": {
+                            "id": "37",
+                            "latitude": -0.18277,
+                            "longitude": -78.49482,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "38": {
+                            "id": "38",
+                            "latitude": -0.18257,
+                            "longitude": -78.49478,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "39": {
+                            "id": "39",
+                            "latitude": -0.18244,
+                            "longitude": -78.49475,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "40": {
+                            "id": "40",
+                            "latitude": -0.18226,
+                            "longitude": -78.49472,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "41": {
+                            "id": "41",
+                            "latitude": -0.1821,
+                            "longitude": -78.49469,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "42": {
+                            "id": "42",
+                            "latitude": -0.18198,
+                            "longitude": -78.49467,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "43": {
+                            "id": "43",
+                            "latitude": -0.18184,
+                            "longitude": -78.49465,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "44": {
+                            "id": "44",
+                            "latitude": -0.18172,
+                            "longitude": -78.49462,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "45": {
+                            "id": "45",
+                            "latitude": -0.18159,
+                            "longitude": -78.4946,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "46": {
+                            "id": "46",
+                            "latitude": -0.18149,
+                            "longitude": -78.49458,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "47": {
+                            "id": "47",
+                            "latitude": -0.18132,
+                            "longitude": -78.49455,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "48": {
+                            "id": "48",
+                            "latitude": -0.18119,
+                            "longitude": -78.49453,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "49": {
+                            "id": "49",
+                            "latitude": -0.18107,
+                            "longitude": -78.4945,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "50": {
+                            "id": "50",
+                            "latitude": -0.18092,
+                            "longitude": -78.49448,
+                            "title": "Punto 437",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "51": {
+                            "id": "51",
+                            "latitude": -0.18082,
+                            "longitude": -78.49446,
+                            "title": "Punto 436",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         }
+                    },
+                    "La Granja": {
+                        "1": {
+                            "id": "1",
+                            "latitude": -0.18683,
+                            "longitude": -78.50838,
+                            "title": "Cuiabá",
+                            "description": "Cuiabá"
+                         },
+                         "2": {
+                            "id": "2",
+                            "latitude": -0.18774,
+                            "longitude": -78.50681,
+                            "title": "Campo Grande",
+                            "description": "Campo Grande",
+                            "category": 1
+                         },
+                         "3": {
+                            "id": "3",
+                            "latitude": -0.18874,
+                            "longitude": -78.50508,
+                            "title": "São Paulo",
+                            "description": "São Paulo",
+                            "category": 1
+                         },
+                         "4": {
+                            "id": "4",
+                            "latitude": -0.18948,
+                            "longitude": -78.50378,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "5": {
+                            "id": "5",
+                            "latitude": -0.19033,
+                            "longitude": -78.50231,
+                            "title": "Ceará",
+                            "description": "Ceará",
+                            "category": 1
+                         },
+                         "6": {
+                            "id": "6",
+                            "latitude": -0.19103,
+                            "longitude": -78.50109,
+                            "title": "Rio Grande do Sul",
+                            "description": "Rio Grande do Sul",
+                            "category": 1
+                         },
+                         "7": {
+                            "id": "7",
+                            "latitude": -0.19222,
+                            "longitude": -78.49902,
+                            "title": "Acre",
+                            "description": "Acred",
+                            "category": 1
+                         },
+                         "8": {
+                            "id": "8",
+                            "latitude": -0.1928,
+                            "longitude": -78.49801,
+                            "title": "Cuiabá",
+                            "description": "Cuiabá"
+                         },
+                         "9": {
+                            "id": "9",
+                            "latitude": -0.19178,
+                            "longitude": -78.49757,
+                            "title": "Campo Grande",
+                            "description": "Campo Grande",
+                            "category": 1
+                         },
+                         "10": {
+                            "id": "10",
+                            "latitude": -0.1899,
+                            "longitude": -78.49672,
+                            "title": "São Paulo",
+                            "description": "São Paulo",
+                            "category": 1
+                         },
+                         "11": {
+                            "id": "11",
+                            "latitude": -0.18891,
+                            "longitude": -78.49628,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "12": {
+                            "id": "12",
+                            "latitude": -0.18736,
+                            "longitude": -78.49557,
+                            "title": "Ceará",
+                            "description": "Ceará",
+                            "category": 1
+                         },
+                         "13": {
+                            "id": "13",
+                            "latitude": -0.18657,
+                            "longitude": -78.49522,
+                            "title": "Rio Grande do Sul",
+                            "description": "Rio Grande do Sul",
+                            "category": 1
+                         },
+                         "14": {
+                            "id": "14",
+                            "latitude": -0.18627,
+                            "longitude": -78.4958,
+                            "title": "Acre",
+                            "description": "Acred",
+                            "category": 1
+                         },
+                         "15": {
+                            "id": "15",
+                            "latitude": -0.18579,
+                            "longitude": -78.49696,
+                            "title": "Cuiabá",
+                            "description": "Cuiabá"
+                         },
+                         "16": {
+                            "id": "16",
+                            "latitude": -0.18462,
+                            "longitude": -78.4998,
+                            "title": "Campo Grande",
+                            "description": "Campo Grande",
+                            "category": 1
+                         },
+                         "17": {
+                            "id": "17",
+                            "latitude": -0.18386,
+                            "longitude": -78.50137,
+                            "title": "São Paulo",
+                            "description": "São Paulo",
+                            "category": 1
+                         },
+                         "18": {
+                            "id": "18",
+                            "latitude": -0.18388,
+                            "longitude": -78.50206,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "19": {
+                            "id": "19",
+                            "latitude": -0.18373,
+                            "longitude": -78.50277,
+                            "title": "Ceará",
+                            "description": "Ceará",
+                            "category": 1
+                         },
+                         "20": {
+                            "id": "20",
+                            "latitude": -0.18284,
+                            "longitude": -78.50375,
+                            "title": "Rio Grande do Sul",
+                            "description": "Rio Grande do Sul",
+                            "category": 1
+                         },
+                         "21": {
+                            "id": "21",
+                            "latitude": -0.18212,
+                            "longitude": -78.5044,
+                            "title": "Acre",
+                            "description": "Acred",
+                            "category": 1
+                         },
+                         "22": {
+                            "id": "22",
+                            "latitude": -0.18146,
+                            "longitude": -78.50507,
+                            "title": "Cuiabá",
+                            "description": "Cuiabá"
+                         },
+                         "23": {
+                            "id": "23",
+                            "latitude": -0.18234,
+                            "longitude": -78.50564,
+                            "title": "Campo Grande",
+                            "description": "Campo Grande",
+                            "category": 1
+                         },
+                         "24": {
+                            "id": "24",
+                            "latitude": -0.18411,
+                            "longitude": -78.5068,
+                            "title": "São Paulo",
+                            "description": "São Paulo",
+                            "category": 1
+                         },
+                         "25": {
+                            "id": "25",
+                            "latitude": -0.18478,
+                            "longitude": -78.50723,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         },
+                         "26": {
+                            "id": "26",
+                            "latitude": -0.18606,
+                            "longitude": -78.50803,
+                            "title": "Rio de Janeiro",
+                            "description": "Rio de Janeiro",
+                            "category": 1
+                         }
+                    }
+                }
+            }
+        }
+    }
+}

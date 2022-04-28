@@ -1,0 +1,42 @@
+{
+    "__collections__": {
+        "Mapa": {
+            "Direcciones": {
+                "__collections__": {
+                    "Altamarina": {
+                        "1": {
+                            "longitude": 6135415,
+                            "id": "1",
+                            "latitude": 41573547,
+                            "__collections__": {}
+                        },
+                        "2": {
+                            "description": "Campo Grande",
+                            "title": "Campo Grande",
+                            "latitude": -0.18212,
+                            "id": "2",
+                            "longitude": -78.5044,
+                            "category": 1,
+                            "__collections__": {}
+                        },
+                        "3": {
+                            "id": "3",
+                            "latitude": -0.18284,
+                            "title": "São Paulo",
+                            "description": "São Paulo",
+                            "longitude": -78.50375,
+                            "category": 1,
+                            "__collections__": {}
+                        }
+                    },
+                    "La Granja": {
+                        "1": {
+                            "id": "1",
+                            "__collections__": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
